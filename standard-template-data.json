@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-10-12T03:22:18.390993245Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-10-22T07:25:11.940159252Z",
     "templateType": "trip_f",
     "propertyId": "d5e43541-9430-499a-8c2d-0dc15a63de2f",
     "homepageId": "dac69891-a009-419d-a997-873a37dee50a"
@@ -1741,13 +1741,14 @@
               {
                 "id": "01a10f9c-7e9a-7de5-aec9-c993ae7427f3",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dac69891-a009-419d-a997-873a37dee50a/popup/1791263276175-99fzx1l5ht.png",
-                "sortOrder": 1,
+                "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
                 "blockId": "8b616d3f-d53c-4e78-9a01-978db4705097"
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
@@ -1760,15 +1761,16 @@
             "title": "",
             "images": [
               {
-                "id": "01a0f66e-bbd3-7a47-9df6-707f4f68a43d",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dac69891-a009-419d-a997-873a37dee50a/popup/1790840846664-tyzjo4n8u4.jpg",
-                "sortOrder": 0,
+                "id": "01a1627f-da57-75e6-93d3-938a7a56b0d4",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dac69891-a009-419d-a997-873a37dee50a/popup/1792653908067-gxr0ns7kg7.png",
+                "sortOrder": 1,
                 "description": "",
                 "isSelected": true,
                 "blockId": "10125f14-36b2-4ebf-98dd-152990380fee"
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": "2026-10-31",
             "sortOrder": 1,
@@ -2481,7 +2483,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
